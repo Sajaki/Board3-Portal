@@ -234,7 +234,7 @@ class modules_helper
         {
             $styles .= ($styles == '' ? '' : ';') . $style;
         }
-        var_dump($styles);
+        /*var_dump($styles);*/
         $this->config->set('board3_portal_fa_styles', $styles);
     }
 }

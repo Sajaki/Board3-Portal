@@ -619,7 +619,3 @@ dd.responsive-portal-news:last-of-type, dd.responsive-portal-announcements:last-
 .content li {
 	list-style-type: inherit !important;
 }
-
-a {
-	display: inline;
-}

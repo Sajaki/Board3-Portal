@@ -1,4 +1,4 @@
-# Board3 Portal 2.2.0-a1
+# Board3 Portal 2.2.0-b1
 
 Board Portal 2.2.x is a portal for phpBB 3.2.x. It adds a portal with several blocks to your forum.
 You can change the settings, move the blocks, add new blocks and more in the ACP.
