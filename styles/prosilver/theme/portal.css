@@ -205,7 +205,8 @@ a.portal-forumtitle {
 }
 
 .portal-poll-side-option-info {
-	width: 30% !important;
+	width: 58% !important;
+	float: right !important;
 }
 
 .portal-poll-side-checkbox {
@@ -214,6 +215,7 @@ a.portal-forumtitle {
 
 .portal-poll-side-checkbox input {
 	vertical-align: top;
+	margin-left: 39px;
 	margin-top: 0;
 }
 
@@ -614,7 +616,10 @@ dd.responsive-portal-news:last-of-type, dd.responsive-portal-announcements:last-
 	}
 }
 
-.fa-backward, .fa-forward {
-	font-size: 1.4em;
-	margin-bottom: 4px;
+.content li {
+	list-style-type: inherit !important;
+}
+
+a {
+	display: inline;
 }
