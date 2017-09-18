@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2.1
+* @package Board3 Portal v2.2
 * @copyright (c) 2014 Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
@@ -106,4 +106,12 @@ $lang = array_merge($lang, array(
 	// Install
 	'PORTAL_BASIC_INSTALL'			=> 'Füge Basismodule hinzu',
 	'PORTAL_BASIC_UNINSTALL'		=> 'Entferne Module von Datenbank',
+
+    // Font Awesome
+    'ACP_FA'                => 'Font Awesome Styles',
+    'ACP_FA_EXP'            => 'Hier kannst du einstellen welche Styles Font Awesome Icons nutzen sollen.',
+    'MODULE_FA'             => 'Font Awesome Icon',
+    'MODULE_FA_EXP'         => 'Hier kannst du ein Font Awesome Icon einstellen. Dieses wird verwendet wenn der Style Font Awesome verwendet.',
+    'MODULE_FA_SIZE'        => 'Font Awesome Icongröße',
+    'MODULE_FA_SIZE_EXP'    => 'Hier kannst du die Größe des Font Awesome Icons einstellen (in Pixel).',
 ));

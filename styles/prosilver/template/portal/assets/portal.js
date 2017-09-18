@@ -1,6 +1,6 @@
 /**
 *
-* @package Board3 Portal v2.1 - javascript code
+* @package Board3 Portal v2.2 - javascript code
 * @copyright (c) 2014 Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *

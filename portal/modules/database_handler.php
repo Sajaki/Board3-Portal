@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @package Board3 Portal v2.1
+ * @package Board3 Portal v2.2
  * @copyright (c) 2014 Board3 Group ( www.board3.de )
  * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
  *
@@ -75,6 +75,8 @@ class database_handler
 			'module_group_ids'	=> '',
 			'module_image_height'	=> 16,
 			'module_image_width'	=> 16,
+			'module_fa_icon'    => '',
+			'module_fa_size'    => 1,
 			'module_status'		=> self::B3_MODULE_ENABLED,
 		);
 		$sql = 'UPDATE ' . PORTAL_MODULES_TABLE . '

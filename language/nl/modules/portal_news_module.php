@@ -2,7 +2,7 @@
 /**
 *
 * [Dutch] translated by Dutch Translators (https://github.com/dutch-translators)
-* @package Board3 Portal v2.1 - News
+* @package Board3 Portal v2.2 - News
 * @copyright (c) 2013 Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
