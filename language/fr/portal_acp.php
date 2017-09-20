@@ -107,4 +107,12 @@ $lang = array_merge($lang, array(
 	// Install
 	'PORTAL_BASIC_INSTALL'			=> 'Ajout d’un ensemble de modules de base',
 	'PORTAL_BASIC_UNINSTALL'		=> 'Suppression des modules de la base de données',
+
+	// Font Awesome
+	'ACP_FA'				=> 'Styles utilisant la police de caractères « Font Awesome »',
+	'ACP_FA_EXP'			=> 'Permet de sélectionner quels styles vont utiliser la police de caractères « Font Awesome » pour les icônes.',
+	'MODULE_FA'				=> 'Icônes « Font Awesome »',
+	'MODULE_FA_EXP'			=> 'Permet de sélectionner une icône « Font Awesome ». Celle-ci sera affichée lorsqu’un style sera sélectionné pour utiliser la police de caractères « Font Awesome » pour les icônes.',
+	'MODULE_FA_SIZE'		=> 'Taille des icônes « Font Awesome »',
+	'MODULE_FA_SIZE_EXP'	=> 'Permet de modifier la taille en pixels des icônes de la police de caractères « Font Awesome ».',
 ));
