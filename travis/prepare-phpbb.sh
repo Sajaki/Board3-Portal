@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #
 # This file is part of the phpBB Forum Software package.
@@ -25,3 +26,4 @@ git clone --depth=1 "git://github.com/phpbb/phpbb.git" "phpBB3" --branch=$BRANCH
 
 # Clone trimmessage tool
 git clone --depth=1 "git://github.com/nickvergessen/phpbb-tool-trimmessage.git" "phpBB3/phpBB/ext/nickvergessen/trimmessage"
+
