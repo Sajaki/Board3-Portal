@@ -4,7 +4,7 @@ Board Portal 2.2.x is a portal for phpBB 3.2.x. It adds a portal with several bl
 You can change the settings, move the blocks, add new blocks and more in the ACP.
 
 ### Download  
-  http://www.avathar.be/bbdkp/app.php/dl_ext/?view=detail&df_id=39
+  http://www.avathar.be/bbdkp/app.php/dlext/?view=detail&df_id=39
   
 ### Installation
 2. Copy the entire contents from the unzipped folder to `/ext/board3/portal/`.
